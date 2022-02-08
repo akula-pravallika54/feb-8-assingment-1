@@ -1,0 +1,9 @@
+COMPARING TWO NUMBERS
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+print(a>b, a>=b, a<b, a<=b, a!=b, a==b)
+OUTPUT:
+enter a:10
+enter b:20
+False False True True True False
+
